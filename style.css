@@ -81,6 +81,16 @@ ul{
     padding: 2.5rem 0;
 }
 
+#workskills1{
+    padding-top: 15px;
+}
+
+#workskills2{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+
 /* media query */
 
 @media screen and (min-width : 991px ){
